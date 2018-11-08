@@ -1,2 +1,2 @@
-# Bootcamp-group-work
-#Notebooks to work on collaboratively
+# Bootcamp
+Notebooks to work on collaboratively, course notes, ideas and attempts
